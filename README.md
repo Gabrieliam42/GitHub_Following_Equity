@@ -1,4 +1,4 @@
-# GitHub Following Followers Fairness
+# GitHub Following Followers Equity
 
 
 This Python script has been compiled as a executable file and works on Windows operating systems.
