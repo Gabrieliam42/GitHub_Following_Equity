@@ -9,6 +9,7 @@ This Python script has been compiled as a executable file and works on Windows o
 - GitHub Username
 - GitHub personal access token
 
+#### NOTE: You can find your access token at https://github.com/settings/tokens if you have one already, and if you don't have one you can click Generate new token (classic) and check the user:follow box there.
 #### It needs this data in order to help you with GitHub equity regarding following and followers.
 
 #### If your Github Username and your GitHub personal access token are correct, it then proceeds to follow per persons that are following you on GitHub, and to unfollow those that are not.
