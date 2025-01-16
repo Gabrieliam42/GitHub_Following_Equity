@@ -11,7 +11,7 @@ This Python script has been compiled as a executable file and works on Windows o
 
 #### It needs this data in order to help you with GitHub equity regarding following and followers.
 
-#### If your Github Username and your GitHub personal access token are correct it then proceeds to follow per persons that are following you on GitHub and to unfollow those that are not.
+#### If your Github Username and your GitHub personal access token are correct, it then proceeds to follow per persons that are following you on GitHub, and to unfollow those that are not.
 
 
 
